@@ -20,25 +20,25 @@ ActivityName - type:text
 		WALKING_UPSTAIRS
 
 
-tBodyAcc_[mean|std]_[X|Y|Z] - type:numeric
-tGravityAcc_[mean|std]_[X|Y|Z] - type:numeric
-tBodyAccJerk_[mean|std]_[X|Y|Z] - type:numeric
-tBodyGyro_[mean|std]_[X|Y|Z] - type:numeric
-tBodyGyroJerk_[mean|std]_[X|Y|Z] - type:numeric
-tBodyAccMag_[mean|std] - type:numeric
-tGravityAccMag_[mean|std] - type:numeric
-tBodyAccJerkMag_[mean|std] - type:numeric
-tBodyGyroMag_[mean|std] - type:numeric
-tBodyGyroJerkMag_[mean|std] - type:numeric
-fBodyAcc_[mean|std]_[X|Y|Z] - type:numeric
-fBodyAccJerk_[mean|std]_[X|Y|Z] - type:numeric
-fBodyGyro_[mean|std]_[X|Y|Z] - type:numeric
-fBodyAccMag_[mean|std] - type:numeric
-fBodyAccJerkMag_[mean|std] - type:numeric
-fBodyGyroMag_[mean|std] - type:numeric
-fBodyGyroJerkMag_[mean|std] - type:numeric
+tBodyAcc\_[mean|std]\_[X|Y|Z] - type:numeric  
+tGravityAcc\_[mean|std]\_[X|Y|Z] - type:numeric  
+tBodyAccJerk\_[mean|std]\_[X|Y|Z] - type:numeric  
+tBodyGyro\_[mean|std]\_[X|Y|Z] - type:numeric  
+tBodyGyroJerk\_[mean|std]\_[X|Y|Z] - type:numeric  
+tBodyAccMag\_[mean|std] - type:numeric  
+tGravityAccMag\_[mean|std] - type:numeric  
+tBodyAccJerkMag\_[mean|std] - type:numeric  
+tBodyGyroMag\_[mean|std] - type:numeric  
+tBodyGyroJerkMag\_[mean|std] - type:numeric  
+fBodyAcc\_[mean|std]\_[X|Y|Z] - type:numeric  
+fBodyAccJerk\_[mean|std]\_[X|Y|Z] - type:numeric  
+fBodyGyro\_[mean|std]\_[X|Y|Z] - type:numeric  
+fBodyAccMag\_[mean|std] - type:numeric  
+fBodyAccJerkMag\_[mean|std] - type:numeric  
+fBodyGyroMag\_[mean|std] - type:numeric  
+fBodyGyroJerkMag\_[mean|std] - type:numeric  
 
-	The average of the measurement results by Subject and Activity
-	aaaa
+	The average of each of the measured features by Subject and Activity
+	For more information about the features, please refer to the features_info.txt in the distributed with the project data
 
 
