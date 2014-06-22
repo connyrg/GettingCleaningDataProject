@@ -12,4 +12,5 @@ This repository contains the R scipt run\_analysis.R which create a tidy dataset
 
 1. Create a working directory.
 2. Download the zipped raw data UCI HAR Dataset.zip from [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), and then unzipped it into the working directory. A folder named UCI HAR Dataset will be created in the working directory.
-3. Save run_analysis.R into the working directory, and run the script using Base R or R Studio. The output tidy dataset named summary\_measurement.txt will be created in the working directory.
+3. R libraries named 'sqldf' and 'reshape2' are required in the script. Users need to install those two R packages in order the script to run successfully. 
+4. Save run_analysis.R into the working directory, and run the script using Base R or R Studio. The output tidy dataset named summary\_measurement.txt will be created in the working directory.
