@@ -1,8 +1,10 @@
 ### Data Dictionary - summary_measurements.txt
 
 Subject	numeric
-	The ID of the subject who perform the activity being measured
-		1..30 - Each subject is assigned with a number 
+
+The ID of the subject who perform the activity being measured
+
+1..30 - Each subject is assigned with a number 
 
 ActivityName	text
 	The name of the activity
