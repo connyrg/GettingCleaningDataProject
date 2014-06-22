@@ -20,7 +20,7 @@ ActivityName - type:text
 		WALKING_UPSTAIRS
 
 
-tBodyAcc_[*mean*|*std*]_[*X*|*Y*|*Z*]
+tBodyAcc_[*mean*|*std*]_[*X*|*Y*|*Z*]\n
 tGravityAcc_[*mean*|*std*]_[*X*|*Y*|*Z*]
 
 	The average of the measurement results by Subject and Activity
