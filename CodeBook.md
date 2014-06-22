@@ -39,14 +39,15 @@ fBodyBodyGyroMag\_[mean|std] - type:numeric
 fBodyBodyGyroJerkMag\_[mean|std] - type:numeric  
 
 	The average of 66 measured features by Subject and Activity
-     The variable names describe the type of the feature measured using the following rules:
-     - the prefix 't' denotes a time domain signals, while the prefix 'f' denotes a frequency domain signal
-     - 'Body' and 'Gravity' denote body and gravity acceleration signals, respectively
-     - 'Acc' and 'Gyro' denote that the measurement come from accelerometer and gyroscope raw signal, respectively
-     - 'Jerk' denotes a Jerk signal
-     - 'Mag' denotes the magnitude of a three-dimensional signal
-     - 'mean' and 'std' denote the mean and standard deviation of each measurement signals
-     - 'X', 'Y', and 'Z' denote 3-axial signals in the X, Y and Z directions
-	For more information about the features, please refer to the features_info.txt in the distributed with the project data
+	The variable names describe the type of the feature measured using the following rules:
+	- the prefix 't' denotes a time domain signals, while the prefix 'f' denotes a frequency domain signal
+	- 'Body' and 'Gravity' denote body and gravity acceleration signals, respectively
+	- 'Acc' and 'Gyro' denote that the measurement come from accelerometer and gyroscope raw signal, respectively
+	- 'Jerk' denotes a Jerk signal
+	- 'Mag' denotes the magnitude of a three-dimensional signal
+	- 'mean' and 'std' denote the mean and standard deviation of each measurement signals
+	- 'X', 'Y', and 'Z' denote 3-axial signals in the X, Y and Z directions
+	For more information about the features, please refer to the features_info.txt distributed in the project data UCI HAR Dataset.zip
+
 
 
