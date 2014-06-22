@@ -21,4 +21,9 @@ ActivityName - type:text
 
 
 tBodyAcc_[*mean*|*std*]_[*X*|*Y*|*Z*]
+tGravityAcc_[*mean*|*std*]_[*X*|*Y*|*Z*]
+
+	The average of the measurement results by Subject and Activity
+	aaaa
+
 
